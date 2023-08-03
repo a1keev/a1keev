@@ -14,4 +14,4 @@
 можно посмотреть в <a href="https://github.com/a1keev/portfolio">**``моем портфолио``**</a>
 
 ## Связаться со мной можно написав мне на почту или в телеграм
-**e@a1keev.com**  |  [**@a1keev**](https://t.me/@a1keev)
+**e@a1keev.com**  |  [**@a1keev**](https://t.me/a1keev)
